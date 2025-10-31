@@ -213,7 +213,5 @@ What role do normalization layers play in enabling such depth?
 These scenarios mirror real exam and interview reasoning.
 Don’t just memorize the answers — understand *why* each architectural choice solves a specific data or optimization problem.
 
-✅ *End of Week 4 Applied Scenarios*
 
-Would you like me to also create a short `README.md` for the folder (with links to both files and a short overview for GitHub navigation)?
-```
+
