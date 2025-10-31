@@ -204,5 +204,5 @@ Together, they create a balanced, high-performing CNN.
 ---
 
 
-> ⬅️ [Back to Summary](../Week5_CNN_Advanced.md)  
+> ⬅️ [Back to Summary](/summary/Week5_Advanced_CNNs.md)  
 > ➡️ [Next Week (Week 6 Scenarios)](../Week6_Scenarios.md)
