@@ -233,6 +233,6 @@ where energy efficiency and cost are more important than raw speed.
 
 > ⬅️ [Previous Week (Week 5 — Advanced CNNs)](Week5_Advanced_CNNs.md)
 > 🧩 [Go to Week 6 Scenarios](/Scenarios/Week6_Scenarios.md)
-> ➡️ [Next Week (Week 7 — Optimization in Practice)](Week7_Optimization.md)
+> ➡️ [Next Week (Week 7 — Training Nural Network)](Week7_TrainingNN.md)
 
 
