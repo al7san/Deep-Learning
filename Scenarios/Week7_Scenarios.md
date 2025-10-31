@@ -183,5 +183,5 @@ Together, they ensure balanced and reliable training.
 ---
 
 
-> ⬅️ [Back to Summary](../summary/Week7_TrainingNeuralNetworks.md)  
+> ⬅️ [Back to Summary](/summary/Week7_TrainingNN.md)  
 > ➡️ [Next Week (Week 8 Scenarios)](Week8_Optimization.md)
