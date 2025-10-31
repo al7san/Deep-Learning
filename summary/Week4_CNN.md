@@ -222,7 +222,7 @@ for param in model.layer1.parameters():
 
 
 > ⬅️ [Previous Week (Week 3 )]()
-> 🧩 [Go to Week 4 Scenario](Week4Scenario.md)
+> 🧩 [Go to Week 4 Scenario](/Scenarios/week4Scenario.md) 
 > ➡️ [Next Week (Week 5 Advanced CNNs)](Week5_Advanced_CNNs.md)
 
 
