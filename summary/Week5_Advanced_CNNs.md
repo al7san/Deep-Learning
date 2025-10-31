@@ -268,6 +268,6 @@ allowing much deeper networks to train effectively.
 
 
 > ⬅️ [Previous Week (Week 4 CNNs)](Week4_CNN.md)
-> 🧩 [Go to Week 5 Scenarios](Week5_Scenarios.md)
+> 🧩 [Go to Week 5 Scenarios](Scenarios/Week5_Scenarios.md)
 > ➡️ [Next Week (Week 6 RNNs)](/Week6_RNNs.md)
 
