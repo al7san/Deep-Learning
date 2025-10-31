@@ -7,7 +7,7 @@
 
 ## 1. Introduction — From Seeing to Understanding
 
-In [Week 4](/Week4_CNN.md), we learned how CNNs **see** images by detecting patterns such as edges and shapes.  
+In [Week 4](Week4_CNN.md), we learned how CNNs **see** images by detecting patterns such as edges and shapes.  
 In Week 5, we explore how they **understand and generalize** — connecting those features to make decisions.
 
 After convolution and pooling layers extract spatial features,  
@@ -267,7 +267,7 @@ allowing much deeper networks to train effectively.
 
 
 
-> ⬅️ [Previous Week (Week 4 CNNs)](../Week4_CNNs/Summary/Week4_CNNs.md)
+> ⬅️ [Previous Week (Week 4 CNNs)](Week4_CNN.md)
 > 🧩 [Go to Week 5 Scenarios](Week5_Scenarios.md)
-> ➡️ [Next Week (Week 6 RNNs)](../Week6_RNNs/Week6_RNNs.md)
+> ➡️ [Next Week (Week 6 RNNs)](/Week6_RNNs.md)
 
