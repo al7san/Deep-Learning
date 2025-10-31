@@ -231,13 +231,8 @@ where energy efficiency and cost are more important than raw speed.
 
 ## 🧭 Navigation Panel
 
-> ⬅️ [Previous Week (Week 5 — Advanced CNNs)](/Week5_CNN_Advanced.md)
+> ⬅️ [Previous Week (Week 5 — Advanced CNNs)](Week5_CNN_Advanced.md)
 > 🧩 [Go to Week 6 Scenarios](/Scenarios/Week6_Scenarios.md)
-> ➡️ [Next Week (Week 7 — Optimization in Practice)](../Week7_Optimization/Week7_Optimization.md)
+> ➡️ [Next Week (Week 7 — Optimization in Practice)](Week7_Optimization.md)
 
-```
 
----
-
-هل ترغب أن أتابع الآن بإنشاء ملف **`Week6_Scenarios.md`** بنفس أسلوب Week 5 (سيناريوهات + قسم True/False في النهاية)؟
-```
