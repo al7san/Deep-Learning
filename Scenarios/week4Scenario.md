@@ -1,5 +1,5 @@
 # 🧩 Week 4 — Applied Scenarios & Exam-Style Questions  
-> Complementary file for *[Week4_CNN](../summary/Week4_CNN.md)*  
+> Complementary file for *[Week4_CNN](../summry/Week4_CNN.md)*  
 > Based on lecture concepts (Convolution, Pooling, Normalization, Fine-Tuning)  
 > and expanded with real-world case analyses inspired by MSc Deep Learning exams.
 
