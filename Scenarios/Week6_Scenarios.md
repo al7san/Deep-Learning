@@ -188,4 +188,4 @@ ONNX ensures cross-framework compatibility and smoother deployment.
 
 
 > ⬅️ [Back to Summary](../summary/Week6_HardwareandSoftware.md)  
-> ➡️ [Next Week (Week 7 Scenarios)](../Week7_Optimization/Week7_Scenarios.md)
+> ➡️ [Next Week (Week 7 Scenarios)](Week7_Scenarios.md)
