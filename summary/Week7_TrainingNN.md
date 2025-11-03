@@ -197,5 +197,5 @@ forcing the model to learn smoother decision boundaries.
 
 > ⬅️ [Back to Week 6 — Hardware and Software](Week6_HardwareandSoftware.md)
 > 🧩 [Go to Week 7 Scenarios](../Scenarios/Week7_Scenarios.md)
-> ➡️ [Next Week (Week 8 — Optimization in Practice)](Week8_Optimization.md)
+> ➡️ [Next Week (Week 8 — Optimization in Practice)](Week8_TrainingNN2.md)
 
